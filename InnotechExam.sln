@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30330.147
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InnotechExam", "InnotechExam.csproj", "{62A1A1DD-7428-4CD1-A371-FCD54E9B2B9E}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestInnotech", "..\XUnitTestInnotech\XUnitTestInnotech.csproj", "{773B13D4-873D-4C0C-90AF-A9D99C6B1EBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{62A1A1DD-7428-4CD1-A371-FCD54E9B2B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62A1A1DD-7428-4CD1-A371-FCD54E9B2B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62A1A1DD-7428-4CD1-A371-FCD54E9B2B9E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{773B13D4-873D-4C0C-90AF-A9D99C6B1EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{773B13D4-873D-4C0C-90AF-A9D99C6B1EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{773B13D4-873D-4C0C-90AF-A9D99C6B1EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{773B13D4-873D-4C0C-90AF-A9D99C6B1EBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
